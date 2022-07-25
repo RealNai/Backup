@@ -1,0 +1,58 @@
+{   
+  //default
+  "editor.minimap.size": "fill",
+  "json.schemas": [
+  
+  //bg
+  ],
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.style": {
+      "content": "''",
+      "pointer-events": "none",
+      "position": "absolute",
+      "z-index": "99999",
+      "width": "70%",
+      "margin-left":"30%",
+      "height": "100%",
+      "background-position": "right",
+      "background-size": "cover",
+      "background-repeat": "no-repeat",
+      "opacity": 0.4
+  },
+  "background.customImages": [
+    "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ba22543-c5b2-486a-b9d2-95ebe36d5a87/ded60hy-5ee2cfe3-4484-4330-b4f7-4dd631550b39.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViYTIyNTQzLWM1YjItNDg2YS1iOWQyLTk1ZWJlMzZkNWE4N1wvZGVkNjBoeS01ZWUyY2ZlMy00NDg0LTQzMzAtYjRmNy00ZGQ2MzE1NTBiMzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._VQ1mhBebUgtuFfN8dQ9dV3CJ923AmbHrA2kJj-unsQ",
+  ],
+
+  //
+  "window.zoomLevel": 2,
+
+  //workbench
+  //terminal theme: Tomorrow night
+  //source: https://glitchbone.github.io/vscode-base16-term/#/macintosh
+  "workbench.colorCustomizations": {
+    "terminal.background":"#1D1F21",
+    "terminal.foreground":"#C5C8C6",
+    "terminalCursor.background":"#C5C8C6",
+    "terminalCursor.foreground":"#C5C8C6",
+    "terminal.ansiBlack":"#1D1F21",
+    "terminal.ansiBlue":"#81A2BE",
+    "terminal.ansiBrightBlack":"#969896",
+    "terminal.ansiBrightBlue":"#81A2BE",
+    "terminal.ansiBrightCyan":"#8ABEB7",
+    "terminal.ansiBrightGreen":"#B5BD68",
+    "terminal.ansiBrightMagenta":"#B294BB",
+    "terminal.ansiBrightRed":"#CC6666",
+    "terminal.ansiBrightWhite":"#FFFFFF",
+    "terminal.ansiBrightYellow":"#F0C674",
+    "terminal.ansiCyan":"#8ABEB7",
+    "terminal.ansiGreen":"#B5BD68",
+    "terminal.ansiMagenta":"#B294BB",
+    "terminal.ansiRed":"#CC6666",
+    "terminal.ansiWhite":"#C5C8C6",
+    "terminal.ansiYellow":"#F0C674",
+
+    "tab.activeBackground": "#424242",
+    }
+  }
